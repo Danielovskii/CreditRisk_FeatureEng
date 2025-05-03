@@ -19,7 +19,7 @@ This project develops a credit risk scoring model using a logistic regression mo
   - Filtering relevant `loan_status` categories.
   - Dropping columns with high missing values (>80%) and zero variance.
   - Removing non-predictive columns.
-  - The reduced dataset, `credit_dataset_reduced.csv`, was then used for the project and uploaded to GitHub.
+  - The reduced dataset, `credit_test_data.csv`, was then used for the project and uploaded to GitHub.
 
 
 ## Steps
